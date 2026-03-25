@@ -181,7 +181,7 @@ export const translations = {
     cancel: "ரத்து",
     selectCrop: "பயிர் வகையைத் தேர்ந்தெடுக்கவும்",
     rice: "அரிசி",
-    rice: "அரிசி",
+    wheat: "கோதுமை",
     wheat: "கோதுமை",
     sugarcane: "கரும்பு",
     cotton: "பருத்தி",
