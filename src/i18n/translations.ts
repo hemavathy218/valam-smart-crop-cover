@@ -179,7 +179,7 @@ export const translations = {
     back: "பின்",
     save: "சேமி",
     cancel: "ரத்து",
-    login: "உள்நுழை",
+    selectCrop: "பயிர் வகையைத் தேர்ந்தெடுக்கவும்",
     selectCrop: "பயிர் வகையைத் தேர்ந்தெடுக்கவும்",
     rice: "அரிசி",
     wheat: "கோதுமை",
